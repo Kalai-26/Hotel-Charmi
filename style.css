@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.landing{
+    background-image: url('../media/pexels-ali-kraïevski-18214744.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
